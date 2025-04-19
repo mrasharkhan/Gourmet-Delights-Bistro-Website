@@ -4,25 +4,25 @@ const menuItems1 = [
       name: "Truffle Mushroom Risotto",
       price: "$24.99",
       description: "Creamy risotto with wild mushrooms and shaved truffle.",
-      image: "../media/risotto.jpeg"
+      image: "media/risotto.jpeg"
     },
     {
       name: "Grilled Salmon Teriyaki",
       price: "$28.50",
       description: "Fresh Atlantic salmon glazed with teriyaki sauce.",
-      image: "../media/salmon.jpeg"
+      image: "media/salmon.jpeg"
     },
     {
       name: "Roasted Beet Salad",
       price: "$14.00",
       description: "Mixed greens, roasted beets, goat cheese, and walnuts.",
-      image: "../media/salad.jpeg"
+      image: "media/salad.jpeg"
     },
     {
       name: "Classic Margherita Pizza",
       price: "$18.00",
       description: "San Marzano tomatoes, mozzarella, and fresh basil.",
-      image: "../media/pizza.jpeg"
+      image: "media/pizza.jpeg"
     }
   ];
   // Breakfast Menu Items
@@ -31,19 +31,19 @@ const menuItems2 = [
       name: "Pancakes with Maple Syrup",
       price: "$15.00",
       description: "Fluffy pancakes served with maple syrup and butter.",
-      image: "../media/pancakes.jpeg"
+      image: "media/pancakes.jpeg"
     },
     {
       name: "Avocado Toast",
       price: "$12.50",
       description: "Fresh avocado on toasted sourdough with a sprinkle of chili flakes.",
-      image: "../media/avocado-toast.jpeg"
+      image: "media/avocado-toast.jpeg"
     },
     {
       name: "Eggs Benedict",
       price: "$18.00",
       description: "Poached eggs, ham, and hollandaise sauce on an English muffin.",
-      image: "../media/eggs-benedict.jpeg"
+      image: "media/eggs-benedict.jpeg"
     }
   ];
   
@@ -53,19 +53,19 @@ const menuItems2 = [
       name: "Grilled Chicken Caesar Salad",
       price: "$20.00",
       description: "Grilled chicken breast with a classic Caesar salad.",
-      image: "../media/caesar-salad.jpeg"
+      image: "media/caesar-salad.jpeg"
     },
     {
       name: "Beef Burger",
       price: "$22.00",
       description: "Juicy beef patty with lettuce, tomato, and special sauce.",
-      image: "../media/beef-burger.jpeg"
+      image: "media/beef-burger.jpeg"
     },
     {
       name: "Vegetarian Wrap",
       price: "$18.50",
       description: "Wrap filled with mixed vegetables, hummus, and feta cheese.",
-      image: "../media/vegetarian-wrap.jpeg"
+      image: "media/vegetarian-wrap.jpeg"
     }
   ];
   
@@ -75,19 +75,19 @@ const menuItems2 = [
       name: "Lamb Shank with Mint Sauce",
       price: "$30.00",
       description: "Slow-cooked lamb shank with a fresh mint sauce.",
-      image: "../media/lamb-shank.jpeg"
+      image: "media/lamb-shank.jpeg"
     },
     {
       name: "Seared Duck Breast",
       price: "$32.00",
       description: "Seared duck breast with a berry reduction sauce.",
-      image: "../media/duck-breast.jpeg"
+      image: "media/duck-breast.jpeg"
     },
     {
       name: "Vegetable Paella",
       price: "$24.00",
       description: "Spanish rice dish with a medley of seasonal vegetables.",
-      image: "../media/vegetable-paella.jpeg"
+      image: "media/vegetable-paella.jpeg"
     }
   ];
   
@@ -97,19 +97,19 @@ const menuItems2 = [
       name: "Mojito",
       price: "$10.00",
       description: "Fresh mint, rum, lime juice, soda water, and sugar.",
-      image: "../media/mojito.jpeg"
+      image: "media/mojito.jpeg"
     },
     {
       name: "Red Wine",
       price: "$12.00",
       description: "Full-bodied red wine, rich in flavor.",
-      image: "../media/red-wine.jpeg"
+      image: "media/red-wine.jpeg"
     },
     {
       name: "Cappuccino",
       price: "$5.50",
       description: "Espresso topped with steamed milk and foam.",
-      image: "../media/cappuccino.jpeg"
+      image: "media/cappuccino.jpeg"
     }
   ];
   
