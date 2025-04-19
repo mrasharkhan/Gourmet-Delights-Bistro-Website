@@ -1,0 +1,4 @@
+# Introduction
+## Gourmet Delights Bistro is a fictional fine dining restaurant located in Sydney, known for its elegant ambiance and diverse menu, which blends European culinary traditions with Australian flavors. The website was designed to reflect the restaurant’s upscale identity, with pages including Home, About Us, Menu, Chef’s Specials, and Reservation.
+
+The structure emphasizes clean navigation and engaging visuals. The Home page features a luxurious hero image with animated welcome text and a CTA button leading to the menu. The About page narrates the story, vision, and features a gallery and interior shots with fade-in animations. The Menu page uses JavaScript to dynamically load multiple dish categories. The Reservation page offers an interactive form, and the footer provides social media links and a map.
