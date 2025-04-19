@@ -1,0 +1,167 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #080400;
+    color: #333;
+  }
+.main-nav {
+    padding: 40px 20px;
+    background: #050200;
+    text-align: center;
+    padding: 15px;
+  }
+  .main-nav a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+  }
+  .main-nav a:hover {
+    color:  #ffefdf;
+  }
+header {
+    text-align: center;
+    background-color: #080400;
+    padding: 60px 20px;
+    color: white;
+  }
+  
+  .reservation-section {
+    background: url('../media/reservation-bg.png') no-repeat center center/cover;
+    padding: 60px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  #reservation-form {
+    background-color: rgba(255, 255, 255, 0.95);
+    padding: 30px;
+    border-radius: 15px;
+    max-width: 600px;
+    width: 100%;
+    box-shadow: 0 0 20px rgba(0,0,0,0.3);
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  input, select, textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+  }
+  
+  button {
+    background-color: #8a4a00;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 10px;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #a65b09;
+  }
+  
+  #confirmation {
+    margin-top: 30px;
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 128, 0, 0.8);
+    padding: 20px;
+    border-radius: 12px;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  .fade-down-header {
+    opacity: 0;
+    transform: translateY(-40px);
+    transition: opacity 1s ease-out, transform 1s ease-out;
+  }
+  
+  .fade-down-header.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  .fade-in {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 1s ease-out, transform 1s ease-out;
+  }
+  
+  .fade-in.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  footer {
+    background-color: #050200;
+    color: #fff;
+    padding: 40px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-wrap: wrap;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+    max-width: 1200px;
+  }
+  
+  .footer-left,
+  .footer-right {
+    flex: 1 1 300px;
+    margin: 20px;
+  }
+  
+  .footer-left h3,
+  .footer-right h4 {
+    margin-bottom: 10px;
+    color: #ffcc99;
+  }
+  
+  .footer-left p {
+    margin: 4px 0;
+  }
+  
+  .socials a {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .socials img {
+    width: 24px;
+    height: 24px;
+    transition: transform 0.3s ease;
+  }
+  
+  
+  .socials img:hover {
+    transform: scale(1.2);
+  }
+  
+  .map-container {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0,0,0,0.4);
+  }
