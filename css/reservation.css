@@ -27,7 +27,7 @@ header {
   }
   
   .reservation-section {
-    background: url('media/reservation-bg.png') no-repeat center center/cover;
+    background: url('../media/reservation-bg.png') no-repeat center center/cover;
     padding: 60px 20px;
     display: flex;
     flex-direction: column;
